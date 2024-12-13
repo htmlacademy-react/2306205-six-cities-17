@@ -1,7 +1,7 @@
 # Личный проект «Шесть городов»
 
 * Студент: [Eugene Chepkasov](https://up.htmlacademy.ru/react/17/user/2306205).
-* Наставник: `Неизвестно`.
+* Наставник: [Максим Иванов](https://htmlacademy.ru/profile/id342945).
 
 ---
 
